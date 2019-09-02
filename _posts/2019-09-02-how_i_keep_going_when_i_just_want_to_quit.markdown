@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How I keep going when I just want to quit."
-date:       2019-09-02 20:49:54 +0000
+date:       2019-09-02 16:49:55 -0400
 permalink:  how_i_keep_going_when_i_just_want_to_quit
 ---
 
@@ -16,7 +16,9 @@ When I started programming, I had a feeling that I could do it, but I had no evi
 
 **Permission denied**
 
-When I was supposed to build my first program (a CLI web scraper) I was completely lost. I tried and failed multiple times before I found a mentor who taught me how to do it. Learning to rely on other people, and to ask for help despite feeling stupid or embarrassed has been essential to my success. But even after building an object-oriented Ruby program, I still felt lost. I would watch classmates of mine solve coding problems that were impossible for me. I was frustrated, anxious, and thought about giving up almost daily. But then about five months into the boot camp, a funny thing started happening. I was still getting stuck just as much as before, but I was asking for help a little bit less. I was finding more solutions on my own, and things were starting to make a bit more sense to me. I was slowly understanding why I would need to create classes, what `attr_accessor` does, and as I gained insight into `self` in Ruby, I was gaining insight into my own self as well. I was thinking about things differently. Logically, systematically, breaking things down and reasoning out outcomes and solutions. I was feeling confident, excited, capable. "I can do this!"
+When I was supposed to build my first program (a CLI web scraper) I was completely lost. I tried and failed multiple times before I found a mentor who taught me how to do it. Learning to rely on other people, and to ask for help despite feeling stupid or embarrassed has been essential to my success. But even after building an object-oriented Ruby program, I still felt lost. I would watch classmates of mine solve coding problems that were impossible for me. I was frustrated, anxious, and thought about giving up almost daily. 
+
+But then about five months into the boot camp, a funny thing started happening. I was still getting stuck just as much as before, but I was asking for help a little bit less. I was finding more solutions on my own, and things were starting to make a bit more sense to me. I was slowly understanding why I would need to create classes, what `attr_accessor` does, and as I gained insight into `self` in Ruby, I was gaining insight into my own self as well. I was thinking about things differently. Logically, systematically, breaking things down and reasoning out outcomes and solutions. I was feeling confident, excited, capable. "I can do this!"
 
 And then I had to learn Sinatra.
 
