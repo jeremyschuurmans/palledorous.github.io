@@ -1,11 +1,11 @@
 # Site settings
 author: Jeremy Schuurmans
-title: 
+title: CODEducation
 header-img: img/home-bg.png
 email: schuurm@ns.codes
 copyright_name: Jeremy Schuurmans
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to program bit by bit
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: JMSchuurmans
 github_username:  palledorous
