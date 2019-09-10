@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "TDD Basics: How to write an RSpec test"
-date:       2019-09-10 12:53:19 +0000
+date:       2019-09-10 08:53:20 -0400
 permalink:  tdd_basics_how_to_write_an_rspec_test
 ---
 
@@ -90,7 +90,7 @@ And lastly we write our expectation. Let's think about this part for a second. T
 3. Our method will need to then return `9876554321`.
 4. So, since our method call is set to the variable `ordered_1`, if our code works, we expect `ordered_1` to equal `9876554321`.
 
-The beauty of RSpec is that it gives us several methods that we can use to set expectations for working code. In this example, we're utilizing the methods `expect`, `to`, and `equal`. I'll talk about others, and give you resources on them in subsequent posts.
+The beauty of RSpec is that it gives us several methods that we can use to set expectations for working code. In this example, we're utilizing the methods `expect`, `to`, and `equal`.
 
 ```ruby
 describe 'descending_order' do
