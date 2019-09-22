@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "5 Things you should know if you're new to Flatiron School"
-date:       2019-09-21 14:14:57 +0000
+title:      "5 things you should know if you're new to Flatiron School"
+date:       2019-09-21 10:14:58 -0400
 permalink:  5_things_you_should_know_if_youre_new_to_flatiron_school
 ---
 
