@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "6 Git commands every beginner should memorize"
-date:       2019-11-07 22:52:04 +0000
+date:       2019-11-07 17:52:05 -0500
 permalink:  6_git_commands_every_beginner_should_memorize
 ---
 
@@ -16,7 +16,7 @@ I use Ruby in all my examples.
 
 ### 1. git init
 
-`git init` is how you add git to your project.
+`git init` is how you add Git to your project.
 
 - open your terminal, and create a new directory. I keep all my code-related files in a `code` folder, so I'll put it there. You can put it wherever you like. `mkdir code/practice`
 
@@ -66,7 +66,7 @@ If you run `git status` now, it'll show you changes ready to be committed, in th
 
 ### 5. git checkout
 
-You use `git checkout` to switch between branches. For convenience, you can abbreviate it to `git co ` If you add the `-b` flag, it will both create a new branch and switch to it at the same time. You can name your branches whatever you like, but descriptive names are best, like so: `git co -b add-example-code`
+You use `git checkout` to switch between branches. For convenience, you can abbreviate it to `git co ` If you add the `-b` option, it will both create a new branch and switch to it at the same time. You can name your branches whatever you like, but descriptive names are best, like so: `git co -b add-example-code`
 
 - running that command will create and switch to a branch called `add-example-code`.
 
@@ -74,7 +74,7 @@ You use `git checkout` to switch between branches. For convenience, you can abbr
 
 - open `git_practice.rb` in your text editor of choice.
 
-- add some code. Let's go with `puts 'Hello World!` Save the file.
+- add some code. Let's go with `puts 'Hello World!'` Save the file.
 
 - let's run `git status` again to see what happened. Again, it'll show you what branch you're on, and what changes you made that aren't staged for committing yet. In this case, that we modified git_practice.rb.
 
